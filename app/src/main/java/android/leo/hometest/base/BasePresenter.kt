@@ -19,6 +19,7 @@ abstract class BasePresenter {
 
     public fun onDestroy() {
         this.mBaseView = null
+        mCompositeDisposable.clear()
     }
 
     protected abstract fun getBaseView() : BaseView
