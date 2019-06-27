@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="material_color_array">
+        <item type="color">#283593</item>
+        <item type="color">#388e3c</item>
+        <item type="color">#ba0303</item>
+    </array>
+
+</resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Home Test</string>
+
+    <string name="label_hot_keyword">Từ khóa hot</string>
+
+    <string name="loading">Loading...</string>
 </resources>
